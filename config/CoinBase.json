@@ -1,0 +1,34 @@
+{
+  "Coins": [
+    {
+      "Exchange": "CoinBase",
+      "ForeignName": "GTC-USD",
+      "Ignore": false,
+      "Symbol": "GTC"
+    },
+    {
+      "Exchange": "CoinBase",
+      "ForeignName": "BCH-USD",
+      "Ignore": false,
+      "Symbol": "BCH"
+    },
+    {
+      "Exchange": "CoinBase",
+      "ForeignName": "BTC-USD",
+      "Ignore": false,
+      "Symbol": "BTC"
+    },
+    {
+      "Exchange": "CoinBase",
+      "ForeignName": "ETH-BTC",
+      "Ignore": false,
+      "Symbol": "ETH"
+    },
+    {
+      "Exchange": "CoinBase",
+      "ForeignName": "LTC-USD",
+      "Ignore": false,
+      "Symbol": "LTC"
+    }
+  ]
+}
